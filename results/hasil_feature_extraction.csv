@@ -1,0 +1,2 @@
+Metode,Model,Accuracy,Precision,Recall,F1-Score,Latency_ms
+Feature Extraction,MobileNetV3-Small,1.0,1.0,1.0,1.0,226.7589308999959
